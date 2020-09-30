@@ -5,3 +5,5 @@ This python program scrapes result from Wikipedia using Beautiful Soup and displ
 ### Libraries Used
 * requests
 * Beautiful Soup
+
+This script was used for collecting data for the Smart India Hackathon
